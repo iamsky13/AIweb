@@ -4,7 +4,7 @@ from collections import Counter
 from string import punctuation
 from math import log
 
-
+# initialise
 # initialize the connection to the database
 connection = sqlite3.connect('ertyuiojhugyhyjukhfgthyjguf1.sqlite')
 cursor = connection.cursor()
